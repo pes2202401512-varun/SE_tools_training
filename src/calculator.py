@@ -17,6 +17,14 @@ def multiply(a, b):
 def divide(a, b): 
     """Divide a by b""" 
     return a / b
+def power(a, b): 
+    """Raise a to the power of b""" 
+    return a ** b 
+def square_root(a): 
+    """Calculate square root of a""" 
+    if a < 0: 
+        raise ValueError("Cannot calculate square root of negative number") 
+    return a ** 0.5 
 
 def multiply(a, b):
     """Multiply two numbers with input validation and logging."""

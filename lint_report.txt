@@ -1,0 +1,13 @@
+************* Module src.calculator
+src\calculator.py:63:1: W0511: TODO: Students will add multiply, divide, power, sqrt functions (fixme)
+src\calculator.py:39:0: E0102: function already defined line 17 (function-redefined)
+src\calculator.py:50:0: E0102: function already defined line 22 (function-redefined)
+************* Module src.cli
+src\cli.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+src\cli.py:40:11: W0718: Catching too general exception Exception (broad-exception-caught)
+src\cli.py:4:0: W0611: Unused power imported from src.calculator (unused-import)
+src\cli.py:4:0: W0611: Unused square_root imported from src.calculator (unused-import)
+
+------------------------------------------------------------------
+Your code has been rated at 8.00/10 (previous run: 8.00/10, +0.00)
+

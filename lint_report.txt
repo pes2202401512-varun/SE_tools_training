@@ -1,0 +1,23 @@
+************* Module src.calculator
+src\calculator.py:14:19: C0303: Trailing whitespace (trailing-whitespace)
+src\calculator.py:16:16: C0303: Trailing whitespace (trailing-whitespace)
+src\calculator.py:17:17: C0303: Trailing whitespace (trailing-whitespace)
+src\calculator.py:20:16: C0303: Trailing whitespace (trailing-whitespace)
+src\calculator.py:22:17: C0303: Trailing whitespace (trailing-whitespace)
+src\calculator.py:23:19: C0303: Trailing whitespace (trailing-whitespace)
+src\calculator.py:25:13: C0303: Trailing whitespace (trailing-whitespace)
+src\calculator.py:26:75: C0303: Trailing whitespace (trailing-whitespace)
+src\calculator.py:27:19: C0303: Trailing whitespace (trailing-whitespace)
+src\calculator.py:33:0: C0303: Trailing whitespace (trailing-whitespace)
+src\calculator.py:45:0: C0303: Trailing whitespace (trailing-whitespace)
+src\calculator.py:56:0: C0304: Final newline missing (missing-final-newline)
+src\calculator.py:51:1: W0511: TODO: Students will add multiply, divide, power, sqrt functions (fixme)
+src\calculator.py:29:0: E0102: function already defined line 14 (function-redefined)
+src\calculator.py:39:0: E0102: function already defined line 17 (function-redefined)
+************* Module src.cli
+src\cli.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+src\cli.py:5:0: R0912: Too many branches (13/12) (too-many-branches)
+
+------------------------------------------------------------------
+Your code has been rated at 6.62/10 (previous run: 6.62/10, +0.00)
+

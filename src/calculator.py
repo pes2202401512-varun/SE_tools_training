@@ -52,7 +52,8 @@ def divide(a, b):
     if not isinstance(a, (int, float)) or not isinstance(b, (int, float)):
         raise TypeError("Division requires numeric inputs")
     if b == 0:
-        raise ValueError(f"Cannot divide {a} by zero - division by zero is undefined")
+       raise ValueError("Divide by zero error")
+
 
     print(f"Dividing {a} ÷ {b}")  # Added logging
     result = a / b
